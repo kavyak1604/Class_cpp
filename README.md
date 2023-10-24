@@ -8,8 +8,16 @@ When a class is defined, only the specification for the object is defined; no me
 The data members and member functions of the class can be accessed using the dot(‘.’) operator with the object. For example, if the name of the object is obj and you want to access the member function with the name printName() then you will have to write obj.printName().
 
 ## ALGORITHM
-
-Explain what your project is, what problem it solves, and why it's valuable.
+a)calculating volume of cuboid<br>
+1)Start<br>
+2)Create a Cuboid class with private attributes height width and length<br>
+3)In the Cuboid class constructor:<br>
+Initialize the height, width, and length attributes with values passed as parameters.<br>
+Create a method volume() within the Cuboid class:<br>
+Calculate and return the volume of the cuboid using the formula: height * width * length.<br>
+4)Display the calculated volume to the user.<br>
+5)End<br>
+b)
 
 ## Features
 
