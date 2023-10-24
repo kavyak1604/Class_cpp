@@ -22,7 +22,7 @@ b)calculating area of rectangle<br>
 2)Create a rectangle class with private attributes length,width;
 3)Inside the rectangle class:<br>
 Define a method area() to calculate and return the area of the rectangle using the formula: length * width.<br>
-4)Create a cuboid class that inherits from the rectangle class
+4)Create a cuboid class that inherits from the rectangle class<br>
 5)End
 
 ## CONCLUSION
