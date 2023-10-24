@@ -17,29 +17,15 @@ Create a method volume() within the Cuboid class:<br>
 Calculate and return the volume of the cuboid using the formula: height * width * length.<br>
 4)Display the calculated volume to the user.<br>
 5)End<br>
-b)
+b)calculating area of rectangle<br>
+1)Start<br>
+2)Create a rectangle class with private attributes length,width;
+3)Inside the rectangle class:<br>
+Define a method area() to calculate and return the area of the rectangle using the formula: length * width.<br>
+4)Create a cuboid class that inherits from the rectangle class
+5)End
 
-## Features
+## CONCLUSION
+Hence programs like calculating area volume of rectangles,cube cuboid and date of birth were performed using classes.
 
-List the key features of your project.
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-## Demo
-
-Provide a link to a live demo of your project, if applicable. You can also include screenshots or GIFs to showcase your project's user interface.
-
-## Getting Started
-
-Guide users through the process of setting up and running your project.
-
-
-
-List any software, libraries, or hardware requirements users need before they can use your project. 
-
-### Installation
-
-Provide step-by-step instructions for installing your project.
 
